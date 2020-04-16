@@ -3,4 +3,4 @@ django-filter==2.2.0
 djangorestframework==3.11.0
 Markdown==3.2.1
 requests==2.23.0
-flakes8==3.7.9
+flakes8==3.7.0
